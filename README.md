@@ -1,6 +1,6 @@
 # GEMM Systolic Array Matrix Multiplier
 
-A parameterized SystemVerilog implementation and verification of a
+A parameterized SystemVerilog implementation of a
 systolic array-based matrix multiplier for GEMM (General Matrix Multiplication).
 
 ## Overview
