@@ -52,14 +52,11 @@ The design consists of four main components:
 
 ## Verification
 
-The design is verified using:
+The current repository contains the RTL implementation of the
+parameterized GEMM systolic array.
 
-- UVM-based verification
-- SystemVerilog Assertions (SVA)
-- Functional coverage
-- Cross coverage
-- Constrained Random Verification (CRV)
-- Directed tests
+The verification environment is not included in this repository at
+present.
 
 ### Assertions
 
